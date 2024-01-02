@@ -1,0 +1,43 @@
+I. Pilihan Ganda
+    1. Arsitektur Von Neuwmann: Jawabannya adalah (b)Alur Program.
+    2. Perbedaan Compiler dan Interpreter: Jawabnnya adalah (b) Compiler mengubah seluruh kode sumber menjadi bahasa mesin sebelum eksekusi
+    3. Fungsi Input dalam Python: Jawabannya adalah (d) input().
+    4.Perulangan for dalam Python Jawabannya adalah (c) Digunakkan untuk melakukan perulangan pada sequence seperti list dan tuple.
+    5. Sintaks untuk Mendefinisikan Fungsi dalam Python Jawabannya adaalh (C) deg nama_fungsi()
+    6. Mengakses Elemen Kedua dari List dalam Python: Jawabannya adalah (a) list(1).
+
+II. Isian Singkat
+    7. Contoh kode Python dengan if-else:
+
+if kondisi:
+    # kode jika kondisi benar
+else:
+    # kode jika kondisi salah
+
+    8. Perbedaan Compiler dan Interpreter:
+        * Compiler menerjemahkan seluruh kode sumber ke dalam bahasa mesin sekaligus sebelum eksekusi.
+        * Intrepeter menerjemahkan dan mengeksekusi kode sumber baris per baris.
+
+    9. Contoh kode Python untuk Input dan Output
+
+input_data - input("Masukkan data: ")
+print ("Data yang dimasukkan: ", input_data)
+
+
+    10. Fungsi Python untuk mengembalikkan kuadrat angka:
+
+def kuadrat(angka):
+    return angka **2
+
+    11. Contoh kode Python untuk List:
+
+my_list = [1, 2, 3]
+print (my_list[0]) # Mengakses elemen pertama
+
+III. Essay / Coding
+    12. Program Python untuk Loop List dan Menampilkan Angka GenapL
+
+def tampilan_genap(n):
+    for i in range (n+1)
+    if i % 2 == 0
+    print n = int(input("Masukkan n: ))
